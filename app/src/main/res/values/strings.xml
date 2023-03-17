@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppFirebaseLogin</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="btn_logar">Logar</string>
+    <string name="link_register">Click para Cadastrar</string>
+    <string name="txt_registrar">Registrar</string>
+    <string name="btn_registrar">Cadastrar</string>
+    <string name="link_logar">Click para Login</string>
+    <string name="btn_login">Logar</string>
+    <string name="btn_inserir">Inserir</string>
+    <string name="register">Cadastrar</string>
+    <string name="click_login">Click para Login</string>
+    <string name="click_register">Click para Cadastrar</string>
+    <string name="logout">Logout</string>
+</resources>
